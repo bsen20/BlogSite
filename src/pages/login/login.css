@@ -23,7 +23,7 @@
 }
 .loginForm > input {
   padding: 10px;
-  color: white;
+  color: black;
   border: none;
   border-radius: 5px;
 }
@@ -35,6 +35,10 @@
   color: white;
   border-radius: 10px;
   padding: 10px;
+}
+.loginButton:disabled {
+  cursor: not-allowed;
+  background-color: yellow;
 }
 .loginRegisterButton {
   background-color: teal;

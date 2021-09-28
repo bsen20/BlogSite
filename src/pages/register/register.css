@@ -25,7 +25,7 @@
 }
 .registerForm > input {
   padding: 10px;
-  color: white;
+  /* color: black; */
   border: none;
   border-radius: 5px;
 }
